@@ -1,0 +1,41 @@
+body
+{
+    background-image: url("../img/fone.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+    font-family: 'Roboto', sans-serif;
+}
+
+div
+{
+    background-color: white;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    min-height: 95%;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer
+{
+    border-radius: 3px;
+    background-color: lightgrey;
+}
+
+img
+{
+    border-radius: 3px;
+}
+
+h1, h2
+{
+    border-radius: 3px;
+    background-color: lightgrey;
+}
